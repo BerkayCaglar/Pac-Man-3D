@@ -15,11 +15,11 @@ C:/Users/user/Documents/GitHub/Pac-Man-3D/PacmanFPS
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50227
+56959
 Successfully changed project path to: C:/Users/user/Documents/GitHub/Pac-Man-3D/PacmanFPS
 C:/Users/user/Documents/GitHub/Pac-Man-3D/PacmanFPS
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 46.07 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 45.66 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.31f1 (6b54b7616050)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
@@ -35,74 +35,74 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56948
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56320
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001981 seconds.
+Registered in 0.002057 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 43.85 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 44.84 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.412 seconds
+- Completed reload, in  0.418 seconds
 Domain Reload Profiling:
-	ReloadAssembly (412ms)
-		BeginReloadAssembly (47ms)
+	ReloadAssembly (418ms)
+		BeginReloadAssembly (48ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (312ms)
-			LoadAssemblies (45ms)
+		EndReloadAssembly (317ms)
+			LoadAssemblies (46ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (92ms)
+			SetupTypeCache (95ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (18ms)
-			SetupLoadedEditorAssemblies (133ms)
+			SetupLoadedEditorAssemblies (136ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (44ms)
+				RefreshPlugins (45ms)
 				BeforeProcessingInitializeOnLoad (9ms)
-				ProcessInitializeOnLoadAttributes (57ms)
-				ProcessInitializeOnLoadMethodAttributes (18ms)
+				ProcessInitializeOnLoadAttributes (59ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005432 seconds.
+Registered in 0.005257 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 44.38 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 44.00 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.787 seconds
+- Completed reload, in  0.776 seconds
 Domain Reload Profiling:
-	ReloadAssembly (787ms)
-		BeginReloadAssembly (107ms)
+	ReloadAssembly (776ms)
+		BeginReloadAssembly (104ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (16ms)
-		EndReloadAssembly (636ms)
-			LoadAssemblies (75ms)
+		EndReloadAssembly (629ms)
+			LoadAssemblies (74ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (195ms)
+			SetupTypeCache (192ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (263ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (260ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (44ms)
-				BeforeProcessingInitializeOnLoad (69ms)
+				BeforeProcessingInitializeOnLoad (66ms)
 				ProcessInitializeOnLoadAttributes (135ms)
 				ProcessInitializeOnLoadMethodAttributes (6ms)
 				AfterProcessingInitializeOnLoad (5ms)
@@ -115,12 +115,12 @@ Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
 Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2939 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.3 MB.
-System memory in use after: 136.5 MB.
+Unloading 2940 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.4 MB.
+System memory in use after: 136.6 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3378.
-Total: 2.639300 ms (FindLiveObjects: 0.182300 ms CreateObjectMapping: 0.074700 ms MarkObjects: 2.302800 ms  DeleteObjects: 0.078700 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3379.
+Total: 2.513200 ms (FindLiveObjects: 0.189500 ms CreateObjectMapping: 0.078900 ms MarkObjects: 2.175700 ms  DeleteObjects: 0.068500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,326 +134,86 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/_ChompMan-PM
-  artifactKey: Guid(93344835f6fc6f14a9141cd8ef62d597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM using Guid(93344835f6fc6f14a9141cd8ef62d597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd212023584a30f65898c156d3a43826d') in 0.008470 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000116 seconds.
-  path: Assets/_ChompMan-PM/Prefabs
-  artifactKey: Guid(e4c6263f2f9802844bbff6dffecb11d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs using Guid(e4c6263f2f9802844bbff6dffecb11d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f608215e7330cc6a7c0a7a325263a1') in 0.004671 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.367960 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Props
-  artifactKey: Guid(ee0778a11efc2d54892bc1fd9e497230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Props using Guid(ee0778a11efc2d54892bc1fd9e497230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317af8865aca085258f7a724865f001a') in 0.005137 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.033757 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Props/Cherry Variant.prefab
-  artifactKey: Guid(8dadb4a5d9de8a941b6bb68d601ad73f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Props/Cherry Variant.prefab using Guid(8dadb4a5d9de8a941b6bb68d601ad73f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8c733c2e64c6780c02d61c89ea3c51') in 0.268030 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Props/PowerPellet.prefab
-  artifactKey: Guid(296eeb3b9bc02fb44927747cd46985d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Props/PowerPellet.prefab using Guid(296eeb3b9bc02fb44927747cd46985d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08d52bdd62f037e58189e4bef4247705') in 0.031823 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.167669 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment
-  artifactKey: Guid(43a118d05c13ee345a9fe665fcda63ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment using Guid(43a118d05c13ee345a9fe665fcda63ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2058b71d14cec4a1d64ac1f3076cbe7e') in 0.005022 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.065871 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_01.prefab
-  artifactKey: Guid(e6526052046af5941943d80d7d4d4f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_01.prefab using Guid(e6526052046af5941943d80d7d4d4f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d2e8553fffd05289bcc810c33f5382') in 0.136480 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000128 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_01_YellowRed.prefab
-  artifactKey: Guid(a35802cbcbc46ae4680604cf034aabe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_01_YellowRed.prefab using Guid(a35802cbcbc46ae4680604cf034aabe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc658f605e296699247bae317007bb57') in 0.021737 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000123 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_01_Neon.prefab
-  artifactKey: Guid(70fcc9f55ea0ad74bb6799e5690cb4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_01_Neon.prefab using Guid(70fcc9f55ea0ad74bb6799e5690cb4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7296503392cebf69b73a6d101d0cd7f') in 0.140636 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000112 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_01_Gray.prefab
-  artifactKey: Guid(2b5eb7ab0572116459a30704287fecea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_01_Gray.prefab using Guid(2b5eb7ab0572116459a30704287fecea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4850cbe2e75a50d2b5e72ee1e107bd4') in 0.020486 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000111 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_01_OrageRed.prefab
-  artifactKey: Guid(7bb5d66d5f0caa94dbf73c83f062ec5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_01_OrageRed.prefab using Guid(7bb5d66d5f0caa94dbf73c83f062ec5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b30b4e6632ecb6585740b3663d32756b') in 0.019667 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.644118 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters
-  artifactKey: Guid(ad1d807701bd44942bfaab9e52ae27fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters using Guid(ad1d807701bd44942bfaab9e52ae27fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f8a352a1efb0b58fc4d8c8934ed032') in 0.004740 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.072962 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Chomp.prefab
-  artifactKey: Guid(d33249e5ae722fb40ad2807c439696d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Chomp.prefab using Guid(d33249e5ae722fb40ad2807c439696d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad7295efbcbe600988457ea6c9c94f8') in 0.023412 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000129 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
   artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d991980c50e7ac562e22af838895d3') in 0.092646 seconds 
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8eae577caa69b59887341a623095f6') in 0.096627 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000119 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  Time since last request: 0.000135 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
   artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'addd4a38dc7f7191594d49c6403481a2') in 0.022017 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000118 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
-  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab41bb67d9f4493414cbe832d21ff18') in 0.022299 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000109 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
-  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6219a4ca9843426b3881d3506f29a04d') in 0.021251 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000096 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db354d599b350ab3ddf735814babbb0') in 0.021152 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 32.397895 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh
-  artifactKey: Guid(f45ea552aba28a04996e4a9fd3f2e977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh using Guid(f45ea552aba28a04996e4a9fd3f2e977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ecd187f327990c033707dbb5f3c0db') in 0.007038 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.072729 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_01.prefab
-  artifactKey: Guid(46c4cd3ac5c359c468c797ebdb2ecf4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_01.prefab using Guid(46c4cd3ac5c359c468c797ebdb2ecf4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aeb0ee86272b1ea7e95dad21bfae3fd') in 0.016492 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000120 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_08.prefab
-  artifactKey: Guid(764e44cfa16f35d49b6a3c3af7852fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_08.prefab using Guid(764e44cfa16f35d49b6a3c3af7852fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fab057fb93b36a2eab0ffbc18f8702') in 0.015611 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000132 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_09.prefab
-  artifactKey: Guid(a3b130b1665f9674db657dc847d2ec61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_09.prefab using Guid(a3b130b1665f9674db657dc847d2ec61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b912a1aacc7e0806184c1ac119b2513c') in 0.016706 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000111 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_25.prefab
-  artifactKey: Guid(ba18df5e500345642b8afa52eed6121e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_25.prefab using Guid(ba18df5e500345642b8afa52eed6121e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64642cb58d3c21f581bd4b6d1099cfe4') in 0.015972 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000110 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_14.prefab
-  artifactKey: Guid(06ae5bab5325f07419387af863bb3599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_14.prefab using Guid(06ae5bab5325f07419387af863bb3599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7819e9de0a1cf4f0ba76f0116394f46') in 0.016340 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000133 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_07.prefab
-  artifactKey: Guid(b83549e8eda5f3349bf69e6661ecf7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_07.prefab using Guid(b83549e8eda5f3349bf69e6661ecf7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '925e02b3a3561cdd0acf09ee6d291d38') in 0.016700 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000115 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_02.prefab
-  artifactKey: Guid(8042f617cdc65fd42b3399e88add3d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_02.prefab using Guid(8042f617cdc65fd42b3399e88add3d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f98d2c976dd59df960f5b912b69e90c6') in 0.016277 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000108 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_06.prefab
-  artifactKey: Guid(71d9237a5c4b29046ae8f163900f6706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_06.prefab using Guid(71d9237a5c4b29046ae8f163900f6706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d24c3d5bb6c88340cd16d6b3dcabfe6') in 0.015829 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000128 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_15.prefab
-  artifactKey: Guid(ad04e985d3fccf644ae9f80844273971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_15.prefab using Guid(ad04e985d3fccf644ae9f80844273971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1076b00b5db8744e05747606f18e8d49') in 0.016688 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000118 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_05.prefab
-  artifactKey: Guid(e573bacc17719cd43947de737e87bc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_05.prefab using Guid(e573bacc17719cd43947de737e87bc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebac957155bfe292c43861c70350f2a') in 0.016615 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000140 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_24.prefab
-  artifactKey: Guid(5d0f1a6faab18334dae24ed822841da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_24.prefab using Guid(5d0f1a6faab18334dae24ed822841da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8e99d9654aa71b4d5f6bdcb560d409') in 0.016628 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000132 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_03.prefab
-  artifactKey: Guid(940bd3107d0eca140be67658614cca79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_03.prefab using Guid(940bd3107d0eca140be67658614cca79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4bbbfffe2470d4eee0b6055235d81c') in 0.017271 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000101 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_18.prefab
-  artifactKey: Guid(126af22c868f5fb47803e75767d9c25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_18.prefab using Guid(126af22c868f5fb47803e75767d9c25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c77ff0abb02e47578595aa56d01736f') in 0.016564 seconds 
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68f79de341fd1bca40e62382167c3a0') in 0.021165 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000125 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_04.prefab
-  artifactKey: Guid(c69324585cb268f498aec813b972336c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_04.prefab using Guid(c69324585cb268f498aec813b972336c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd94cc218b283b5ade2ae3346eaae70') in 0.016215 seconds 
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff7141e4a57659fb6c6a868e41e4748') in 0.028631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7057c4e42b635f3066ef332b4fa09e2b') in 0.019832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfbd6fbbf778333c6f47dc6bd2ef5001') in 0.021002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.319426 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57cb4aa12fd7ae122fae2c9537f0ffdf') in 0.019071 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000112 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_17.prefab
-  artifactKey: Guid(2cfb9c91ce79b3b4ba7f5489c8fc875f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_17.prefab using Guid(2cfb9c91ce79b3b4ba7f5489c8fc875f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c1119e62c34bb240ff6c7fc0c184543') in 0.016140 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000122 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_11.prefab
-  artifactKey: Guid(c7420859b74ae2a43ad9df68706b5d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_11.prefab using Guid(c7420859b74ae2a43ad9df68706b5d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55d7ef35792bd7a4376c3c8470135839') in 0.015985 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000113 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_20.prefab
-  artifactKey: Guid(180665f4f876c3547a5227433bf8830a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_20.prefab using Guid(180665f4f876c3547a5227433bf8830a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d574d8f6314a71dd139f48a72cae0e') in 0.015614 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000127 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_19.prefab
-  artifactKey: Guid(ad528950a6fb36d4ba50434776abe65e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_19.prefab using Guid(ad528950a6fb36d4ba50434776abe65e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db15abe5f77d7a6931ec4f15764138ff') in 0.016503 seconds 
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b920a2a0779bd70a954ffe8d15f11341') in 0.018490 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000105 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_21.prefab
-  artifactKey: Guid(d7b3ac84a21b7b34d8bedcaa8f09d32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_21.prefab using Guid(d7b3ac84a21b7b34d8bedcaa8f09d32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71ab6ef470124886bf0593eaf05b6d17') in 0.016191 seconds 
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b37b1f1acc4ff057cfe8681cc11119e') in 0.017167 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000122 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_23.prefab
-  artifactKey: Guid(6f91b9e293d15fb4bb49a374e200e6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_23.prefab using Guid(6f91b9e293d15fb4bb49a374e200e6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bd0ebf9956f761372514ee515c109d') in 0.016420 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000120 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_27.prefab
-  artifactKey: Guid(1d31c434adc7d9e45a1ecc3691a67c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_27.prefab using Guid(1d31c434adc7d9e45a1ecc3691a67c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a045df838158f23254a1a24bf9c9041') in 0.016434 seconds 
+  Time since last request: 0.000148 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a0e04875176f1294e977c2e7af8dd1') in 0.017056 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000114 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_12.prefab
-  artifactKey: Guid(5eea77cb514ca474c8b20fbd7690cedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_12.prefab using Guid(5eea77cb514ca474c8b20fbd7690cedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602c9a524689de602a9e59f56c848640') in 0.016244 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000116 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_10.prefab
-  artifactKey: Guid(4c5d18f1bebb0b04fb7b6ad0be856935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_10.prefab using Guid(4c5d18f1bebb0b04fb7b6ad0be856935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf24bfe753895318d4ae2bc4b83f387') in 0.016425 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000105 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_16.prefab
-  artifactKey: Guid(195d684c24e31f2479fb55a3db67f1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_16.prefab using Guid(195d684c24e31f2479fb55a3db67f1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c173aec42bf7b065ac441726e673d97e') in 0.016023 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000116 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_22.prefab
-  artifactKey: Guid(10695e4246ac6d34e8c223ad9b1d62b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_22.prefab using Guid(10695e4246ac6d34e8c223ad9b1d62b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5dc4248472e37eb7c8a54e0c44ac04a') in 0.016668 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000119 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_13.prefab
-  artifactKey: Guid(008cebd59d26d1244ab4c9f0ef718a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_13.prefab using Guid(008cebd59d26d1244ab4c9f0ef718a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70a47aca6c66a637fad264648441cc54') in 0.016714 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000119 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_26.prefab
-  artifactKey: Guid(ccb14a8b846fc7941b85f446b0c9a807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_ModularMesh/Stage_ModularMesh_26.prefab using Guid(ccb14a8b846fc7941b85f446b0c9a807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f860f03170aff09e9a98d563fc1de3d5') in 0.017889 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 122.654086 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
   artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a50b382466f2d22fb9a36ba0925eddc9') in 0.052795 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.867506 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c836363e1c0c3523107437b5981148') in 0.017867 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.982095 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e6f5b502e2bbad0d04cae91b691bf2') in 0.017622 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.589087 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cca2006aeddd7d53582d835bf500985') in 0.017261 seconds 
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6e5e175a8b8acf8bf97b718c27e24f') in 0.019321 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005386 seconds.
+Registered in 0.005194 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.692 seconds
+- Completed reload, in  0.686 seconds
 Domain Reload Profiling:
-	ReloadAssembly (693ms)
-		BeginReloadAssembly (95ms)
+	ReloadAssembly (687ms)
+		BeginReloadAssembly (93ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (30ms)
-		EndReloadAssembly (554ms)
-			LoadAssemblies (73ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (550ms)
+			LoadAssemblies (71ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (190ms)
+			SetupTypeCache (184ms)
 			ReleaseScriptCaches (1ms)
 			RebuildScriptCaches (26ms)
 			SetupLoadedEditorAssemblies (213ms)
@@ -464,202 +224,19 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (70ms)
 				ProcessInitializeOnLoadAttributes (127ms)
 				ProcessInitializeOnLoadMethodAttributes (6ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.1 MB.
-System memory in use after: 131.4 MB.
-
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3389.
-Total: 2.584600 ms (FindLiveObjects: 0.184100 ms CreateObjectMapping: 0.073500 ms MarkObjects: 2.307100 ms  DeleteObjects: 0.019200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 68.066836 seconds.
-  path: Assets/_ChompMan-PM/Materials
-  artifactKey: Guid(a592cc9ccdf138e4eb0a01289d1aecee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials using Guid(a592cc9ccdf138e4eb0a01289d1aecee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ed982965795419e473b7a3602a667e') in 0.008459 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.121047 seconds.
-  path: Assets/_ChompMan-PM/Materials/Dots_MAT.mat
-  artifactKey: Guid(c6a50efaab0081444b054e13abc254fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Dots_MAT.mat using Guid(c6a50efaab0081444b054e13abc254fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c558ed92059f5b960a7560f2dbaec0ae') in 0.111551 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.161784 seconds.
-  path: Assets/_ChompMan-PM/Materials/Enviornment
-  artifactKey: Guid(95e0331f6aef9db4a83c0419cf2f4eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Enviornment using Guid(95e0331f6aef9db4a83c0419cf2f4eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a149ced5a5d53cbabb1a1cae0484847') in 0.001976 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.077357 seconds.
-  path: Assets/_ChompMan-PM/Materials/Enviornment/Stage_Gray_MAT.mat
-  artifactKey: Guid(c8ecb6523f9040e41b7bd9422cc065e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Enviornment/Stage_Gray_MAT.mat using Guid(c8ecb6523f9040e41b7bd9422cc065e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5645a555efd93fb306c1dd930e85cbf3') in 0.016062 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000126 seconds.
-  path: Assets/_ChompMan-PM/Materials/Enviornment/Stage_MAT.mat
-  artifactKey: Guid(d97a11d98a41c9b4487a6add7112e6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Enviornment/Stage_MAT.mat using Guid(d97a11d98a41c9b4487a6add7112e6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029c6ed30e6d4467431bb3c312317658') in 0.016782 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000126 seconds.
-  path: Assets/_ChompMan-PM/Materials/Enviornment/Stage_YellowRed_MAT.mat
-  artifactKey: Guid(cee7e002515fe2e4fa664057c02afdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Enviornment/Stage_YellowRed_MAT.mat using Guid(cee7e002515fe2e4fa664057c02afdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e1d197e8c548a916da19988112747e1') in 0.020374 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000117 seconds.
-  path: Assets/_ChompMan-PM/Materials/Enviornment/Stage_Neon_MAT.mat
-  artifactKey: Guid(21b6e2494efdd644693fce60cbcdfc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Enviornment/Stage_Neon_MAT.mat using Guid(21b6e2494efdd644693fce60cbcdfc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1701fc36d7e048bd208dd57bf84248b') in 0.021115 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000122 seconds.
-  path: Assets/_ChompMan-PM/Materials/Enviornment/Stage_OrangeRed_MAT.mat
-  artifactKey: Guid(4d41ea29da689814dbacf8846f798623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Enviornment/Stage_OrangeRed_MAT.mat using Guid(4d41ea29da689814dbacf8846f798623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28e0204f10b4fe01a35127d3a33885d3') in 0.016628 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000105 seconds.
-  path: Assets/_ChompMan-PM/Materials/Enviornment/StageGround_MAT.mat
-  artifactKey: Guid(6e9133f69a2e8fb46b8a553802962f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Enviornment/StageGround_MAT.mat using Guid(6e9133f69a2e8fb46b8a553802962f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16dd7e23913dd15e5f394e2de081c7a0') in 0.010630 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.483147 seconds.
-  path: Assets/_ChompMan-PM/Materials/Props
-  artifactKey: Guid(49afef03bea85ee48b3397d8fdeffaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Props using Guid(49afef03bea85ee48b3397d8fdeffaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b5577b4b16d83f54b3ce7c352449bd') in 0.001991 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.075876 seconds.
-  path: Assets/_ChompMan-PM/Materials/Props/Cherry.mat
-  artifactKey: Guid(58d9556bf9f0337498429844bdb61864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Props/Cherry.mat using Guid(58d9556bf9f0337498429844bdb61864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eca94d299a58610afa725dc61f3a444') in 0.016282 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000123 seconds.
-  path: Assets/_ChompMan-PM/Materials/Props/PowerPellet_MAT.mat
-  artifactKey: Guid(ff85b959d18aea5498572609247ff7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Props/PowerPellet_MAT.mat using Guid(ff85b959d18aea5498572609247ff7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e28d1d243c01e4ac5831f2382310ea') in 0.009710 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/_ChompMan-PM/Materials/Props/PowerPellet_Rot_MAT.mat
-  artifactKey: Guid(53c2ae58f736fee4a829bd911ee1fb8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Props/PowerPellet_Rot_MAT.mat using Guid(53c2ae58f736fee4a829bd911ee1fb8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce5f0554c2a1f014481355e56851891') in 0.009557 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.525362 seconds.
-  path: Assets/_ChompMan-PM/Materials/Characters
-  artifactKey: Guid(90e8c1de91639ec4da276bcd526a689d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Characters using Guid(90e8c1de91639ec4da276bcd526a689d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e154c7e699d5f9f44dbbc1bb1d1358') in 0.001902 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.428480 seconds.
-  path: Assets/_ChompMan-PM/Materials/Characters/Chomp_MAT.mat
-  artifactKey: Guid(01df7ad55b5244c4791157a1844776ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Characters/Chomp_MAT.mat using Guid(01df7ad55b5244c4791157a1844776ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aee9c9f2884e7e9294461a7acde92b4a') in 0.015907 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000112 seconds.
-  path: Assets/_ChompMan-PM/Materials/Characters/Ghost_MAT.mat
-  artifactKey: Guid(07a319e011269d640bd54c8681787d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Characters/Ghost_MAT.mat using Guid(07a319e011269d640bd54c8681787d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e05b9057bb5571b86cbd639943ba9e7') in 0.022541 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000113 seconds.
-  path: Assets/_ChompMan-PM/Materials/Characters/GhostLitBlue_MAT.mat
-  artifactKey: Guid(26bcbe1ab7bf213448c16169f6208712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Characters/GhostLitBlue_MAT.mat using Guid(26bcbe1ab7bf213448c16169f6208712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011bdfb4abf25b9faa7507811e1684cc') in 0.019336 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000111 seconds.
-  path: Assets/_ChompMan-PM/Materials/Characters/GhostRed_MAT.mat
-  artifactKey: Guid(6bed19597475a274a834a0c10030ec22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Characters/GhostRed_MAT.mat using Guid(6bed19597475a274a834a0c10030ec22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49105b73d73d7d92dfed47881c985573') in 0.019376 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000120 seconds.
-  path: Assets/_ChompMan-PM/Materials/Characters/ScaredGhost_MAT.mat
-  artifactKey: Guid(c31e5fac1beb02f4e8774fb2e51e87a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Characters/ScaredGhost_MAT.mat using Guid(c31e5fac1beb02f4e8774fb2e51e87a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a922df0bd90a80875f3b1f55d68dba48') in 0.020032 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000118 seconds.
-  path: Assets/_ChompMan-PM/Materials/Characters/GhostPink_MAT.mat
-  artifactKey: Guid(67282bf1543d7094f85385b73ba1cb3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Characters/GhostPink_MAT.mat using Guid(67282bf1543d7094f85385b73ba1cb3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aab07ac4bd9b64183a19d198e22de3f') in 0.020787 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000129 seconds.
-  path: Assets/_ChompMan-PM/Materials/Characters/GhostOrange_MAT.mat
-  artifactKey: Guid(70ba22ec1dded714d89bcdab0542907c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Materials/Characters/GhostOrange_MAT.mat using Guid(70ba22ec1dded714d89bcdab0542907c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db595fb5b01f6ed79df1cbdac824e11') in 0.019675 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006471 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.815 seconds
-Domain Reload Profiling:
-	ReloadAssembly (816ms)
-		BeginReloadAssembly (104ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (33ms)
-		EndReloadAssembly (660ms)
-			LoadAssemblies (86ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (229ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (252ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (83ms)
-				ProcessInitializeOnLoadAttributes (150ms)
-				ProcessInitializeOnLoadMethodAttributes (7ms)
 				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.4 MB.
-System memory in use after: 131.7 MB.
+Unloading 2851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.1 MB.
+System memory in use after: 131.3 MB.
 
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3426.
-Total: 2.739900 ms (FindLiveObjects: 0.209200 ms CreateObjectMapping: 0.065300 ms MarkObjects: 2.443500 ms  DeleteObjects: 0.021000 ms)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3389.
+Total: 2.439800 ms (FindLiveObjects: 0.181200 ms CreateObjectMapping: 0.063400 ms MarkObjects: 2.176000 ms  DeleteObjects: 0.018500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -673,110 +250,830 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 95.068911 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066d81657fdc155bc68136f18d5525c4') in 0.061213 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.282477 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7acc07891adbfc2804b8e0e8a668a78') in 0.017931 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.414038 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
-  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2364567972e5f8562384da4425d8dee2') in 0.032073 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000122 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  Time since last request: 54.678671 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
   artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '732991d517079e8880f33f273e34917d') in 0.024367 seconds 
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13e23d68213a7d4dfb8ad9328f9995ae') in 0.055901 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000122 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  Time since last request: 0.000119 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
   artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec842ec23985517d16ca53119e56573') in 0.022773 seconds 
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a831e100b1034072928194053116205c') in 0.016863 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000141 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
-  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c31ed2fa80160240af63e0f2179da9f6') in 0.022864 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.312295 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  Time since last request: 0.000125 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
   artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d9cb484c9c18a4e38aa7fd90551c6c0') in 0.019445 seconds 
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '920bfeae2840c026c4210f14a314a122') in 0.019048 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
-  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441bb45f61deae73631e7520c3ffde0c') in 0.016907 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000115 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
-  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68b788af203b7a9a76fb1dedee0f433') in 0.017140 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000114 seconds.
-  path: Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  Time since last request: 0.000118 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
   artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8e3b39a0c29195d3bdc82e2ba29e16') in 0.016726 seconds 
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22308cee33991e18f186768645120e3') in 0.017411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b4857d1e1f912d99679c2d018f24028') in 0.017275 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.007606 seconds.
+Registered in 0.005161 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.774 seconds
+- Completed reload, in  0.701 seconds
 Domain Reload Profiling:
-	ReloadAssembly (775ms)
-		BeginReloadAssembly (105ms)
+	ReloadAssembly (701ms)
+		BeginReloadAssembly (95ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
+			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (33ms)
-		EndReloadAssembly (621ms)
-			LoadAssemblies (85ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (562ms)
+			LoadAssemblies (76ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (209ms)
+			SetupTypeCache (187ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (30ms)
-			SetupLoadedEditorAssemblies (238ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (216ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (79ms)
-				ProcessInitializeOnLoadAttributes (141ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (125ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.1 MB.
+System memory in use after: 131.3 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3393.
+Total: 2.451800 ms (FindLiveObjects: 0.202000 ms CreateObjectMapping: 0.074300 ms MarkObjects: 2.156800 ms  DeleteObjects: 0.017900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 119.223162 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa43c1943d90bf8f6ba332bf910c96ee') in 0.057472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c39eea9f5d829d50f20db66a01d92b') in 0.020313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35279b9057bccec5858a5a781fec62e7') in 0.021218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a699af552a629fa6164e6e3daa86f2e5') in 0.030334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd45f27a95b6fdb98c60602d3ea2f19cd') in 0.019597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.146482 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Props/Cherry.fbx
+  artifactKey: Guid(a64ff229f591b3647acfd5348c8a2fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Props/Cherry.fbx using Guid(a64ff229f591b3647acfd5348c8a2fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df35c3273a2334046aaf1201b852ae0e') in 0.039887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Props/Dot.fbx
+  artifactKey: Guid(dfa846214fe98954ca47d9a694a75cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Props/Dot.fbx using Guid(dfa846214fe98954ca47d9a694a75cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2868506026e8732230db575ad2fbdf6') in 0.015370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Characters/Chomp_Mesh.fbx
+  artifactKey: Guid(07b805cc50f7b21469eb77045e84e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Characters/Chomp_Mesh.fbx using Guid(07b805cc50f7b21469eb77045e84e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b10228eed1fe02f0d89f8286a800a5e3') in 0.025091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Unity Downloaded Assets/ColumnFreePBR/Prefabs/Column1/Column1Ivy.prefab
+  artifactKey: Guid(0a06c21b95bc2e54e8df7f599fc61136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/ColumnFreePBR/Prefabs/Column1/Column1Ivy.prefab using Guid(0a06c21b95bc2e54e8df7f599fc61136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06ce20128f412d56c868eaf27e7db5c9') in 0.073260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.689318 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost 1.prefab
+  artifactKey: Guid(dd30b582a087b4e428067365e3e2cc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost 1.prefab using Guid(dd30b582a087b4e428067365e3e2cc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c0334dcc757aebd811c755f931638d') in 0.022426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant 1.prefab
+  artifactKey: Guid(09a1860b144d861468ec5fba7047276d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant 1.prefab using Guid(09a1860b144d861468ec5fba7047276d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b094ff08ff0cd2ab322de3597674396') in 0.025334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant 1.prefab
+  artifactKey: Guid(6e3b81f0afcd91f499fe220f7cecdc1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant 1.prefab using Guid(6e3b81f0afcd91f499fe220f7cecdc1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80aca9872aca89c49d5cc68c0062a7af') in 0.020861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant 1.prefab
+  artifactKey: Guid(dd8031b9d16d87e478969cb1b6548d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant 1.prefab using Guid(dd8031b9d16d87e478969cb1b6548d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92dc87f8f69b2a99b68488c79deab47') in 0.026623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.296643 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Characters/Ghost_Mesh.fbx
+  artifactKey: Guid(cd46c4c845d21ed4690627267f2edc5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Characters/Ghost_Mesh.fbx using Guid(cd46c4c845d21ed4690627267f2edc5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4a17522c61755d1c886ef336dc11c5') in 0.024111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.317190 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Enviornment/Maze.fbx
+  artifactKey: Guid(3cdeb45db07800c41b246380f61f46f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Enviornment/Maze.fbx using Guid(3cdeb45db07800c41b246380f61f46f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae9479acf9ceb6c25d2404319ecb30d') in 0.258873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Props/PowerPellet.fbx
+  artifactKey: Guid(5cc64e158fa28a442a7bfee415a9b6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh/Props/PowerPellet.fbx using Guid(5cc64e158fa28a442a7bfee415a9b6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c2fdb258b0da4f2ad85a2f1fbd8e410') in 0.035624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.143842 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_GroundPlace.prefab
+  artifactKey: Guid(482e4546ad0203944961c8ecf7d3b390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_GroundPlace.prefab using Guid(482e4546ad0203944961c8ecf7d3b390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a8b0061b0827b305582c71fbd87eb06') in 0.010236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_03.prefab
+  artifactKey: Guid(8a5cdb9359a01f04b8bcc756788fc964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_03.prefab using Guid(8a5cdb9359a01f04b8bcc756788fc964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a3b7874917b8839e4f1d05735d0dd4') in 0.015857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_02.prefab
+  artifactKey: Guid(807a583b1382b7543ad9555f56ddc2af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_02.prefab using Guid(807a583b1382b7543ad9555f56ddc2af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7076455e59d97d71519f389b15254eb8') in 0.017826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_01.prefab
+  artifactKey: Guid(99fcfb317b7f55b4da19106b0a543800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_01.prefab using Guid(99fcfb317b7f55b4da19106b0a543800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31616f1b6f8eb4342c668f28b81c5423') in 0.016862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.953870 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866d0453174bf9d1102847e6db30d6a9') in 0.030333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf1894089742fa087968c42d0461b8f') in 0.023469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22bddefe40f58b1e7f5815eff77271da') in 0.021325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a3da6de060975c7760ed64df6b85c8') in 0.020710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a94c78a0d1b75680d2fafb66b689de') in 0.025842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.464140 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f920c29bfe6ae02e26d78fdc30d3ff') in 0.021633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5943af473801308d4e28ae073a0a3b5') in 0.020863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6406d5470ebe4edf4231908479e8474') in 0.020609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5221da35c73ee2a31119f0a492d20803') in 0.021130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9666e3cb587135a5f3d18faa3195549d') in 0.031728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.713419 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_04.prefab
+  artifactKey: Guid(4afada16b72bc7d448e6944a40eed4e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_04.prefab using Guid(4afada16b72bc7d448e6944a40eed4e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bc8e30926d1cdab07b05813af41368f') in 0.022430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_07.prefab
+  artifactKey: Guid(0233dc04347989e4da33675975391794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_07.prefab using Guid(0233dc04347989e4da33675975391794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a3bcd5e64bb35462ecb8d7dbdcc62c9') in 0.017164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_05.prefab
+  artifactKey: Guid(5246c140e92fd544a921c04bb8d9f124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_05.prefab using Guid(5246c140e92fd544a921c04bb8d9f124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f52ee3422701d2199b436bca6364e2') in 0.017936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_06.prefab
+  artifactKey: Guid(e953438b1e8b2b248b619f24ce7e1bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_06.prefab using Guid(e953438b1e8b2b248b619f24ce7e1bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2923e3c6e76eb5a9f2cdb4abcd384724') in 0.017663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.041631 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_08.prefab
+  artifactKey: Guid(f144b847630c4b846b030e5d59005d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_08.prefab using Guid(f144b847630c4b846b030e5d59005d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09ca9a9f07967ca9b3a2f1b8d11b6d67') in 0.016569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_010.prefab
+  artifactKey: Guid(f45596f90fc288441b76e92ce100914f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_010.prefab using Guid(f45596f90fc288441b76e92ce100914f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a021cec2356375cbbcaa58ebcca553') in 0.018440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_09.prefab
+  artifactKey: Guid(560c09726e6bc4f41ae8ae1dd678d632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/Stage_Mesh_09.prefab using Guid(560c09726e6bc4f41ae8ae1dd678d632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10f0bd53bb7e7881e4ae19a33e2f762f') in 0.017010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.345103 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_01.prefab
+  artifactKey: Guid(6fef34dd968130a4e92ae8f68b6c7883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_01.prefab using Guid(6fef34dd968130a4e92ae8f68b6c7883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '726588de740844ab16a9f9ee78340eba') in 0.030735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_02.prefab
+  artifactKey: Guid(933a648f460151542a736691a96656a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_02.prefab using Guid(933a648f460151542a736691a96656a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '435cf2e79243b39d0cb7b3acf5dbe11a') in 0.025640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_03.prefab
+  artifactKey: Guid(997e2f1a52870bf48a98fc7d56cffb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_03.prefab using Guid(997e2f1a52870bf48a98fc7d56cffb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9c19ca9f1d52c2beca39696d39a37e') in 0.017342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_04.prefab
+  artifactKey: Guid(1772760b176936846be3d8d44667e42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_04.prefab using Guid(1772760b176936846be3d8d44667e42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fd0043abc8c669866aafd829a65ddd') in 0.016876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_06.prefab
+  artifactKey: Guid(6e1deb1866388e8448bbed0211369ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_06.prefab using Guid(6e1deb1866388e8448bbed0211369ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9afca1f2a8b2be8f5ced54a5ff9beaf9') in 0.016942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_05.prefab
+  artifactKey: Guid(bf3f900ac4cd063488e9f2e350f09a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_05.prefab using Guid(bf3f900ac4cd063488e9f2e350f09a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40d0de073f0ccf6515fc9c1b084ae73f') in 0.017713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.247729 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_07.prefab
+  artifactKey: Guid(7fca7ee885aa6aa4c84ad0c00f8b24aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_07.prefab using Guid(7fca7ee885aa6aa4c84ad0c00f8b24aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6761fd288f121abfccd097902efc86f0') in 0.016487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_010.prefab
+  artifactKey: Guid(61e89c061fb90074e9a0e179a5083a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_010.prefab using Guid(61e89c061fb90074e9a0e179a5083a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57646966946625b6d1f30770be9b4de7') in 0.016871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_09.prefab
+  artifactKey: Guid(771571743279a314baf6dee606c4063a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_09.prefab using Guid(771571743279a314baf6dee606c4063a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e76086b64dc447a787d22b43d234f02') in 0.017343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_08.prefab
+  artifactKey: Guid(a275dc06cd35e044ab88880f28151719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Enviornment/Maze_Geo/StageBorder_Mesh_08.prefab using Guid(a275dc06cd35e044ab88880f28151719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8bc5897d9a6a86e780cd0b5408a49f2') in 0.017822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.597778 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560d37dc359e5fbf4c2db853f0b9ddd0') in 0.019554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cec2a281c9c29f5e85bf3cdc1a95172') in 0.017877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3292f79d2f2385c32a9dc1dbfe80130b') in 0.018141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436839a0f3fd04f4d411952dd1e8ee51') in 0.018482 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93f04964b62619c0da6d0eafd8cd7e5') in 0.018986 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006060 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.701 seconds
+Domain Reload Profiling:
+	ReloadAssembly (702ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (563ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (182ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (224ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (76ms)
+				ProcessInitializeOnLoadAttributes (132ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.8 MB.
+System memory in use after: 132.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3435.
+Total: 2.922300 ms (FindLiveObjects: 0.230000 ms CreateObjectMapping: 0.081700 ms MarkObjects: 2.587300 ms  DeleteObjects: 0.022600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 53.085123 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ade6652beb6fadc8228de38f589ebb7b') in 0.059837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fead3999a5e9125cd1b9e26a228e59c8') in 0.019781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae01ab0c799b04c94d6be7dff6247cab') in 0.030404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e8f92aec0908ba560b502d103364c86') in 0.032730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58da8f3c947f931afd653be2ca5ca1b') in 0.019581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 36.862224 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f333332c9440af4460c930b6b32e0041') in 0.020015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd0d48c05e1fa089d493303f343e6fe') in 0.019916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ec5221cd961384093ca0b8fbf4681c') in 0.018031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c49dd1490db5170a81cd55a544872e4') in 0.018930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b84dbcc9dfa6f0021f614c51ca2df0') in 0.045979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.261963 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e22ca3b85f5240ab4b021bfa0ef73f') in 0.019336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae8929fe1a733071a0e5224d7db6770e') in 0.017157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e67ada6926368cbf5abe8a9b54f839dc') in 0.017848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2676d5b2b9a24f8ca85e8fa3f05a44') in 0.017757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70df2b73ce4a0eaeea0c1f38d3051dba') in 0.017726 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005140 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.694 seconds
+Domain Reload Profiling:
+	ReloadAssembly (694ms)
+		BeginReloadAssembly (93ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (559ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (190ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (215ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (128ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.9 MB.
+System memory in use after: 132.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3439.
+Total: 2.528900 ms (FindLiveObjects: 0.226100 ms CreateObjectMapping: 0.066300 ms MarkObjects: 2.214500 ms  DeleteObjects: 0.021300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005590 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.690 seconds
+Domain Reload Profiling:
+	ReloadAssembly (691ms)
+		BeginReloadAssembly (91ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (556ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (185ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (216ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (129ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.9 MB.
+System memory in use after: 132.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3442.
+Total: 2.660200 ms (FindLiveObjects: 0.228600 ms CreateObjectMapping: 0.076900 ms MarkObjects: 2.333500 ms  DeleteObjects: 0.020600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 173.626511 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e709cc46daafc4bb6b218e8f84cff6ab') in 0.071589 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19993f07ec379d78c1eb129c147bf4a8') in 0.022379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6580631fc25c6086dce1528e7a74cbca') in 0.027196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20fdddf2aef80ed486870f2aa56a1943') in 0.024286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24aaec5a289d0da3470b7483bfcc0798') in 0.023051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.082527 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a6e96a92a1f14ab984c7157ca670ce') in 0.019693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ede2e3d65e9d80579485f1b20c02c00') in 0.030073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f646169ed56b66e1e19537bc0eaa570c') in 0.020092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87457e3d9194902d8dee9ce46109de5c') in 0.021336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b7bf7fe4348f61d66af1d66f7294985') in 0.023628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.886768 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c91c88a413dabba01c9d7f4feb7dab6') in 0.027476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888f23598d2a7f9a7d2cb7994ea9ce36') in 0.018769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d22f9763479cdd578fc84dc95ce23a') in 0.019001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9f1c42c3f00f3b310224b6f0009d458') in 0.018740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '570d1a3114ccb67d0bc3e9c8c5951427') in 0.024649 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.726078 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
+  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d95d55256396d5d2283d5552b9d3cb') in 0.033664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
+  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beca4a7f7f908160a6eaee99bd76d84b') in 0.019071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
+  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48452c6a9a5a5c44e18fe8394bf095c7') in 0.018980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
+  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10fcf1494c7ae1598976230aea4d172') in 0.018551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
+  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0774f4a64b2dbc4454f3fc8140d5974') in 0.036165 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005532 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.701 seconds
+Domain Reload Profiling:
+	ReloadAssembly (702ms)
+		BeginReloadAssembly (96ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (563ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (191ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (217ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (128ms)
 				ProcessInitializeOnLoadMethodAttributes (6ms)
 				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.6 MB.
-System memory in use after: 131.8 MB.
+Unloading 2851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.9 MB.
+System memory in use after: 132.2 MB.
 
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3430.
-Total: 2.792200 ms (FindLiveObjects: 0.275800 ms CreateObjectMapping: 0.109000 ms MarkObjects: 2.384300 ms  DeleteObjects: 0.022400 ms)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3446.
+Total: 2.665800 ms (FindLiveObjects: 0.227800 ms CreateObjectMapping: 0.064900 ms MarkObjects: 2.350900 ms  DeleteObjects: 0.021400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -791,26 +1088,26 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005991 seconds.
+Registered in 0.006104 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.08 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.789 seconds
+- Completed reload, in  0.787 seconds
 Domain Reload Profiling:
-	ReloadAssembly (790ms)
-		BeginReloadAssembly (119ms)
+	ReloadAssembly (788ms)
+		BeginReloadAssembly (98ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (40ms)
-		EndReloadAssembly (622ms)
-			LoadAssemblies (91ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (640ms)
+			LoadAssemblies (83ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (209ms)
+			SetupTypeCache (223ms)
 			ReleaseScriptCaches (1ms)
 			RebuildScriptCaches (30ms)
 			SetupLoadedEditorAssemblies (243ms)
@@ -818,415 +1115,22 @@ Domain Reload Profiling:
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (83ms)
-				ProcessInitializeOnLoadAttributes (142ms)
-				ProcessInitializeOnLoadMethodAttributes (6ms)
-				AfterProcessingInitializeOnLoad (6ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (145ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.6 MB.
-System memory in use after: 131.8 MB.
-
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3433.
-Total: 3.250000 ms (FindLiveObjects: 0.247700 ms CreateObjectMapping: 0.070600 ms MarkObjects: 2.909600 ms  DeleteObjects: 0.021300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 755.103046 seconds.
-  path: Assets/Unity Downloaded Assets
-  artifactKey: Guid(c1b488ea90c5b9f43b8b18edb863ad5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets using Guid(c1b488ea90c5b9f43b8b18edb863ad5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eba65907c1c9aea535ac079f8eabb0f') in 0.009108 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.640081 seconds.
-  path: Assets/ColumnFreePBR
-  artifactKey: Guid(93f718b9ef4f579418f549f1cf9ec52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ColumnFreePBR using Guid(93f718b9ef4f579418f549f1cf9ec52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3282f374e9ba2ee45d908e5f022c80') in 0.004764 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005204 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.685 seconds
-Domain Reload Profiling:
-	ReloadAssembly (686ms)
-		BeginReloadAssembly (91ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (29ms)
-		EndReloadAssembly (550ms)
-			LoadAssemblies (72ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (183ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (26ms)
-			SetupLoadedEditorAssemblies (213ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (71ms)
-				ProcessInitializeOnLoadAttributes (126ms)
-				ProcessInitializeOnLoadMethodAttributes (6ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.6 MB.
-System memory in use after: 131.8 MB.
-
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3436.
-Total: 2.808900 ms (FindLiveObjects: 0.224300 ms CreateObjectMapping: 0.066400 ms MarkObjects: 2.496100 ms  DeleteObjects: 0.021300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005627 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.678 seconds
-Domain Reload Profiling:
-	ReloadAssembly (678ms)
-		BeginReloadAssembly (85ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (24ms)
-		EndReloadAssembly (549ms)
-			LoadAssemblies (69ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (185ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (26ms)
-			SetupLoadedEditorAssemblies (214ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (70ms)
-				ProcessInitializeOnLoadAttributes (127ms)
-				ProcessInitializeOnLoadMethodAttributes (6ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.6 MB.
-System memory in use after: 131.8 MB.
-
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3439.
-Total: 3.086100 ms (FindLiveObjects: 0.231200 ms CreateObjectMapping: 0.118800 ms MarkObjects: 2.713700 ms  DeleteObjects: 0.021600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 372.741122 seconds.
-  path: Assets/Samples
-  artifactKey: Guid(b970a4a1410914e428e73ff6a7a8a4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Samples using Guid(b970a4a1410914e428e73ff6a7a8a4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697cca9ac6b0191eed082f0752d450bc') in 0.009694 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.622754 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh
-  artifactKey: Guid(421ef77b75fdef646b7e45db8b74f310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Mesh using Guid(421ef77b75fdef646b7e45db8b74f310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5174c98c2e6bac092e1ef2eac4404642') in 0.005170 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.778158 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
-  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c061fa35df55758d3c061ed749e98f') in 0.088131 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
-  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d6c8d4586bf4d4624b10b3ae6939d7') in 0.022336 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000112 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
-  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05a4aea87c7d68cbb38474ecab4a3fcd') in 0.020709 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000111 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
-  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6efc8c85e5cd86465c0d0d72ac130ac') in 0.020266 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000126 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964d4fee156da38645efb9b34f4ca373') in 0.019948 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.404377 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
-  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4391c906ed91b760609d0fcaab3d5276') in 0.022020 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000112 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
-  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820049b68297a9e19a24d378db0e4ba3') in 0.020262 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000135 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
-  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80ce02e267fa7baa29363cf47a06669d') in 0.021137 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000110 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
-  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47631909baad3146f90fb882029cb592') in 0.019713 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000113 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab971d7c62397a95867f8b5705c8be8d') in 0.019297 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.290649 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
-  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae77bd6efbda25285118fedccf485838') in 0.022226 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000108 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
-  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61bd487796805181c959c314ba48448e') in 0.019202 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000110 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
-  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48924e400c259f3ee482ad9e3560d592') in 0.020605 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000109 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
-  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba33a3ea32d229d3354fb3e30fd01b39') in 0.020857 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000118 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219a70016ba8b5a7cef502521449b7b4') in 0.019832 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.502057 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
-  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06f78f53c8da6a226e10426b26ddc1f') in 0.023002 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000111 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
-  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99caacb3835573c27d4bea6e33b91c88') in 0.019858 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000121 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
-  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8267ab96338cebfeca5264e1196d2e9a') in 0.021243 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000108 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
-  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e06e725b47df830577b773e2d4da393') in 0.023601 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000127 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa5ad5207bba5def3f80958be89ec3a') in 0.021447 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.473398 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
-  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e6446be4a4e37b66a9ccd2dba8508a7') in 0.022964 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000113 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
-  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4c466e92b75d5238bd7fd393084d0d') in 0.022522 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000126 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
-  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d20d980a4eafce88762f8ed150bb215') in 0.020242 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000119 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
-  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da56e3c0a9d65207eda0205cf73c0fa') in 0.020061 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2924150ac7dfb90cd8bb428edaa2000') in 0.019880 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.896423 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab
-  artifactKey: Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost.prefab using Guid(f5b04c00596c68849bce306679cbfc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e92439964daa00c4c7a51fb0e56837a') in 0.022864 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000135 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab
-  artifactKey: Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_LitBlue Variant.prefab using Guid(41f5bb0172a94a4459eee9900b6bf02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0218b7ca6ff37eefa041386d367a55fd') in 0.020115 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000140 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab
-  artifactKey: Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Orange Variant.prefab using Guid(bbf054d6e436c51468be981115a84991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a839a50862cb74a0584b433ed98bbdb2') in 0.019989 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab
-  artifactKey: Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Pink Variant.prefab using Guid(f4c0092c8046f484a80394f3f076d9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0084533e93e453e51236a747ddfbb6') in 0.019434 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000118 seconds.
-  path: Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab
-  artifactKey: Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Unity Downloaded Assets/_ChompMan-PM/Prefabs/Characters/Ghost_Red Variant.prefab using Guid(60c2480153d4da841ab193c749b9e87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd4a5b5bbe1fb5c0cb50219e343e6b60') in 0.021090 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 939.122017 seconds.
-  path: ProjectSettings/TagManager.asset
-  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60b95e3b557faec4bcd02b3628ad8f5') in 0.008160 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 174.327425 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(19a2d359c8024e240a4dbf94a9e35a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(19a2d359c8024e240a4dbf94a9e35a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6d5d90ae2577100fae0767bf20a667') in 0.004796 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 24.184498 seconds.
-  path: Assets/Scripts/NavMeshAgent.cs
-  artifactKey: Guid(32eb256db58006a43b698fc2b3803fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/NavMeshAgent.cs using Guid(32eb256db58006a43b698fc2b3803fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b03901d97139e95137b77ea39052b79') in 0.007746 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006131 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.717 seconds
-Domain Reload Profiling:
-	ReloadAssembly (718ms)
-		BeginReloadAssembly (94ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (31ms)
-		EndReloadAssembly (579ms)
-			LoadAssemblies (74ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (187ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (31ms)
-			SetupLoadedEditorAssemblies (231ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (78ms)
-				ProcessInitializeOnLoadAttributes (136ms)
-				ProcessInitializeOnLoadMethodAttributes (6ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2851 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.6 MB.
-System memory in use after: 131.9 MB.
+System memory in use before: 131.9 MB.
+System memory in use after: 132.2 MB.
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3444.
-Total: 2.569400 ms (FindLiveObjects: 0.197100 ms CreateObjectMapping: 0.063800 ms MarkObjects: 2.286500 ms  DeleteObjects: 0.021100 ms)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3449.
+Total: 2.843000 ms (FindLiveObjects: 0.330400 ms CreateObjectMapping: 0.067200 ms MarkObjects: 2.423100 ms  DeleteObjects: 0.021200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1241,112 +1145,49 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005169 seconds.
+Registered in 0.006189 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.676 seconds
+- Completed reload, in  0.803 seconds
 Domain Reload Profiling:
-	ReloadAssembly (677ms)
-		BeginReloadAssembly (87ms)
+	ReloadAssembly (803ms)
+		BeginReloadAssembly (93ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (26ms)
-		EndReloadAssembly (547ms)
-			LoadAssemblies (71ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (186ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (26ms)
-			SetupLoadedEditorAssemblies (210ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (69ms)
-				ProcessInitializeOnLoadAttributes (124ms)
-				ProcessInitializeOnLoadMethodAttributes (6ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.6 MB.
-System memory in use after: 131.8 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3446.
-Total: 2.845300 ms (FindLiveObjects: 0.202100 ms CreateObjectMapping: 0.074500 ms MarkObjects: 2.541100 ms  DeleteObjects: 0.026600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 20.141276 seconds.
-  path: Assets/Scripts/NavMeshh.cs
-  artifactKey: Guid(bb0548ccb3fafd24c83d81f4176a5930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/NavMeshh.cs using Guid(bb0548ccb3fafd24c83d81f4176a5930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc9c8ae1c1b1aad5da533499afc63c98') in 0.008601 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005486 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.801 seconds
-Domain Reload Profiling:
-	ReloadAssembly (802ms)
-		BeginReloadAssembly (97ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (30ms)
-		EndReloadAssembly (659ms)
-			LoadAssemblies (77ms)
+		EndReloadAssembly (662ms)
+			LoadAssemblies (80ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (225ms)
+			SetupTypeCache (224ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (29ms)
-			SetupLoadedEditorAssemblies (259ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (258ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (80ms)
-				ProcessInitializeOnLoadAttributes (157ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (154ms)
 				ProcessInitializeOnLoadMethodAttributes (7ms)
-				AfterProcessingInitializeOnLoad (10ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.33 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2851 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.6 MB.
-System memory in use after: 131.9 MB.
+System memory in use before: 131.9 MB.
+System memory in use after: 132.2 MB.
 
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3450.
-Total: 2.772000 ms (FindLiveObjects: 0.263700 ms CreateObjectMapping: 0.066700 ms MarkObjects: 2.419200 ms  DeleteObjects: 0.021500 ms)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3452.
+Total: 3.003800 ms (FindLiveObjects: 0.450500 ms CreateObjectMapping: 0.084900 ms MarkObjects: 2.444100 ms  DeleteObjects: 0.023300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
