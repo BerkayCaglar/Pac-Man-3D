@@ -115,24 +115,11 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9163715946089988518}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.2061722, y: 1.1975186, z: 0.87270904}
-  m_Center: {x: -0.0010086298, y: 0.6527623, z: -0.07164061}
---- !u!114 &-6667202029164425418
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9163715946089988518}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bb0548ccb3fafd24c83d81f4176a5930, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  target: {fileID: 0}
+  m_Size: {x: 0.8598998, y: 1.1495693, z: 0.87270904}
+  m_Center: {x: 0.00720753, y: 0.6287874, z: -0.07164063}
 --- !u!195 &392763760701089538
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -142,11 +129,11 @@ NavMeshAgent:
   m_GameObject: {fileID: 9163715946089988518}
   m_Enabled: 1
   m_AgentTypeID: 0
-  m_Radius: 0.41859725
-  m_Speed: 3.5
-  m_Acceleration: 8
+  m_Radius: 0.01
+  m_Speed: 15
+  m_Acceleration: 100
   avoidancePriority: 50
-  m_AngularSpeed: 120
+  m_AngularSpeed: 200
   m_StoppingDistance: 0
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
@@ -155,3 +142,27 @@ NavMeshAgent:
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &7450159307640613277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9163715946089988518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c58e0c632327cf348b4f11f22a3ec169, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7489520985290267535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9163715946089988518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59961fa09bc97b04f9c4307d8c1c82cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
